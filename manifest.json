@@ -1,0 +1,11 @@
+{
+  "Name": "PochitaPet",
+  "Author": "SuaLinda",
+  "Version": "1.0.0",
+  "Description": "Substitui o pet cachorro pelo Pochita (Chainsaw Man).",
+  "UniqueID": "sualinda.PochitaPet",
+  "MinimumApiVersion": "3.0.0",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}
